@@ -66,12 +66,12 @@ function changeSingle(element_1, element_2, element_3, element_4, element_5, ele
   element_7.innerHTML = 'Контакт';
   element_8.innerHTML = 'Салом';
   element_9.innerHTML = '<h1>Ман <span style="color:#f9ca24;">Абдурахмон Меликов</span></h1>';
-  element_10.innerHTML = 'Донишҷӯи курси сеюми Донишгоҳи техникии Тоҷикистон ба номи М.C. Осимӣ дар соҳаи амнияти иттилоотӣ ва ҳифзи маълумот';
+  element_10.innerHTML = 'Донишҷӯи курси сеюми Донишгоҳи техникии Тоҷикистон ба номи М.C. Осимӣ дар соҳаи "Амнияти системаҳои коркард ва идоракунии автоматии иттилоот"';
   element_11.innerHTML = 'Дар бораи ман';
   element_12.innerHTML ='<span style="color:#f9ca24;">Дар </span>'+'<span style="color:white;">Бораи ман</span>';
   element_13.innerHTML = '<span style="color:white;">Ном:</span>'+'<span style="color:#f9ca24;">Абдурахмон Меликов</span>';
   element_14.innerHTML = '<span style="color:white;">Сину сол:</span>'+'<span style="color:#f9ca24;">20</span>';
-  element_15.innerHTML = '<span style="color:white;">Тахасус:</span>'+'<span style="color:#f9ca24;">Амнияти иттилоот дар системаи иттилоотӣ</span>';
+  element_15.innerHTML = '<span style="color:white;">Тахасус:</span>'+'<span style="color:#f9ca24;">"Амнияти системаҳои коркард ва идоракунии автоматии иттилоот"</span>';
   element_16.innerHTML = '<span style="color:white;">Пост:</span>'+'<span style="color:#f9ca24;">Барномасози умумии веб</span>';
   element_17.innerHTML = '<span style="color:white;">Миллат:</span>'+'<span style="color:#f9ca24;">Точик</span>';
   element_18.innerHTML = '<span style="color:white;">Омузиши </span>'+'<span style="color:#f9ca24;">Ман</span>';
