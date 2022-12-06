@@ -65,8 +65,8 @@ function changeSingle(element_1, element_2, element_3, element_4, element_5, ele
   element_6.innerHTML = 'Портфол';
   element_7.innerHTML = 'Контакт';
   element_8.innerHTML = 'Салом';
-  element_9.innerHTML = '<h1>Мan <span style="color:#f9ca24;">Абдурахмон Меликов</span></h1>';
-  element_10.innerHTML = 'Донишҷӯиbbbbb курси сеюми Донишгоҳи техникии Тоҷикистон ба номи М.C. Осимӣ дар соҳаи "Амнияти системаҳои коркард ва идоракунии автоматии иттилоот"';
+  element_9.innerHTML = '<h1>Ман <span style="color:#f9ca24;">Абдурахмон Меликов</span></h1>';
+  element_10.innerHTML = 'Донишҷӯи курси сеюми Донишгоҳи техникии Тоҷикистон ба номи М.C. Осимӣ дар соҳаи "Амнияти системаҳои коркард ва идоракунии автоматии иттилоот"';
   element_11.innerHTML = 'Дар бораи ман';
   element_12.innerHTML ='<span style="color:#f9ca24;">Дар </span>'+'<span style="color:white;">Бораи ман</span>';
   element_13.innerHTML = '<span style="color:white;">Ном:</span>'+'<span style="color:#f9ca24;">Абдурахмон Меликов</span>';
