@@ -34,12 +34,12 @@ function changeSingleTwo (element_1, element_2, element_3, element_4, element_5,
   element_7.innerHTML = 'Контакт';
   element_8.innerHTML = 'Привет';
   element_9.innerHTML = '<h1>Я <span style="color:#f9ca24;">Абдурахмон Меликов</span></h1>';
-  element_10.innerHTML = 'Студент третьего курса Таджикского технического университета имени М.С. Осими в области информационной безопасности и защиты данных';
+  element_10.innerHTML = 'Студент третьего курса Таджикского технического университета имени М.С. Осими в области «Безопасность  автоматизированных систем обработки информации и управления»';
   element_11.innerHTML = 'Обо мне';
   element_12.innerHTML ='<span style="color:#f9ca24;">Обо</span>'+'<span style="color:white;">мне</span>';
   element_13.innerHTML = '<span style="color:white;">Имя:</span>'+'<span style="color:#f9ca24;">Абдурахмон Меликов</span>';
   element_14.innerHTML = '<span style="color:white;">Возраст: </span>'+'<span style="color:#f9ca24;">20</span>';
-  element_15.innerHTML = '<span style="color:white;">Квалификация:</span>'+'<span style="color:#f9ca24;">Информационная безопасность в информационной системе</span>';
+  element_15.innerHTML = '<span style="color:white;">Квалификация:</span>'+'<span style="color:#f9ca24;">«Безопасность  автоматизированных систем обработки информации и управления»</span>';
   element_16.innerHTML = '<span style="color:white;">Пост:</span>'+'<span style="color:#f9ca24;">Full-Stack Разработчик</span>';
   element_17.innerHTML = '<span style="color:white;">Язык:</span>'+'<span style="color:#f9ca24;">Таджикский</span>';
   element_18.innerHTML = '<span style="color:white;">Мое </span>'+'<span style="color:#f9ca24;">Образование</span>';
