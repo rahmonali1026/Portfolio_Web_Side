@@ -125,10 +125,10 @@ $(document).ready(function(){
 		});
 		return false;
 	});
-  function DontWork () {
-    alert("This page is temporarily unavailable");
-  }
+  
+
   // smooth scrolling 
+
   $('a[href*="#"]').on('click',function(e){
 
     e.preventDefault();
