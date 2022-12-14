@@ -466,7 +466,17 @@ ul.ul li:hover a::before {
 .contact .row .content .info h3 i{
     padding-right: 1rem;
     color:var(--yellow);
-}   
+} 
+.top{
+    position: fixed;
+    bottom:7.5rem; right: 2rem;
+    z-index: 100;
+    display: none;
+}
+.top img {
+    width: 50px;
+}
+
 
 
 
@@ -566,5 +576,7 @@ ul.ul li:hover a::before {
     .education .box-container {
         flex-wrap: wrap;
     }
-
+    .top img {
+        width: 50px;
+    }
  }
